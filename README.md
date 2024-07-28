@@ -1,9 +1,10 @@
-#node_modules excluded
+# node_modules excluded
 to be cloned, npx create-react-app will need to be ran first and then the entire src folder and public folder can be replaced 
 
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
 
